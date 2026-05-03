@@ -1,4 +1,0 @@
-opencv-python
-cvzone
-Flask
-rembg
